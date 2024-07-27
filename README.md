@@ -71,6 +71,35 @@ The dashboard is interactive, allowing users to filter data by various dimension
 #### Branch Performance Insights
 - Notably, while Dallas has the highest total revenue, it also experiences a higher churn rate in certain categories.
 
+### Customer Churn Analysis Page
+
+#### Customer Demographics:
+-**Total Customers:** 10K
+-**Average Customer Age:** 39 years
+-**Average Credit Score:** 651
+-**Customers with Credit Card:** 71%
+
+#### Gender Distribution of Churned Customers:
+Female customers show higher churn (55.9%) compared to males (44.1%)
+
+#### Credit Card Impact on Customer Churn:
+More churned customers have a credit card (1,424) compared to those without (613)
+
+#### Age Segments Contributing Most to Revenue:
+- Mid Career (35-44) and Early Career (25-34) segments contribute the most
+- Senior (65 & Above) segment contributes the least
+
+#### Age Segments with Highest Customer Churn Rates:
+- Late Career (55-64) has the highest churn rate at 49.83%
+- Experienced Professional (45-54) follows at 48.15%
+- Churn rate drops significantly for the Senior segment (65 and above)
+
+#### Product Categories Generating Most Revenue from Churned Customers:
+- Sports and Travel and Electronic Accessories categories lead
+- Food and Beverages category generates the least revenue from churned customers
+
+#### Customer Activity Status and Churn Across Membership Types:
+- The distribution of customers across activity and churn status is similar for both Normal and Member types
 
 ## Insights and Recommendations
 
@@ -88,7 +117,7 @@ The dashboard is interactive, allowing users to filter data by various dimension
 
 **7. Membership status has less impact on churn than expected.** Revamp the membership program to offer clear, tangible benefits that differentiate from non-member experiences. Consider partnerships with local businesses to expand member benefits beyond the supermarket.
 
-**8. Food and Beverages category generates the least revenue from churned customers.** Leverage the stability of this category by cross-selling and upselling to customers who primarily shop for groceries. Use data analytics to suggest complementary products from higher-churn categories.
+**8. Food and Beverages category generates the least revenue from churned customers.** Leverage the stability of this category by cross-selling and upselling to customers who primarily shop for groceries and suggest complementary products from higher-churn categories.
 
 **9. Customers with poor credit scores have higher churn rates.** Develop financial wellness programs or partnerships with financial institutions to offer credit improvement resources. This can build loyalty while addressing a key churn factor.
 

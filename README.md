@@ -80,19 +80,19 @@ The dashboard is interactive, allowing users to filter data by various dimension
 
 **3. Mid-career (35-44) and early-career (25-34) segments contribute most to revenue but have high churn rates.** Create age-specific retention programs. For mid-career customers, offer family-oriented deals. For early-career, focus on convenience and budget-friendly options.
 
-4. Late-career (55-64) customers have the highest churn rate at 49.83%. Develop a senior loyalty program with benefits like priority service, special shopping hours, and health-focused products/services to appeal to this demographic.
+**4. Late-career (55-64) customers have the highest churn rate at 49.83%.** Develop a senior loyalty program with benefits like priority service, special shopping hours, and health-focused products/services to appeal to this demographic.
 
-5. Sports and Travel and Electronic Accessories categories generate the most revenue from churned customers. Improve customer experience in these categories through personalized recommendations, extended warranties, or exclusive access to new products. Implement a post-purchase follow-up program to ensure satisfaction.
+**5. Sports and Travel and Electronic Accessories categories generate the most revenue from churned customers.** Improve customer experience in these categories through personalized recommendations, extended warranties, or exclusive access to new products. Implement a post-purchase follow-up program to ensure satisfaction.
 
-6. Customer activity level appears more significant in preventing churn than membership status. Implement a multi-channel engagement strategy (e.g., app, email, in-store events) to keep customers active. Create a points system that rewards frequent visits and purchases across all categories.
+**6. Customer activity level appears more significant in preventing churn than membership status.** Implement a multi-channel engagement strategy (e.g., app, email, in-store events) to keep customers active. Create a points system that rewards frequent visits and purchases across all categories.
 
-7. Membership status has less impact on churn than expected. Revamp the membership program to offer clear, tangible benefits that differentiate from non-member experiences. Consider partnerships with local businesses to expand member benefits beyond the supermarket.
+**7. Membership status has less impact on churn than expected.** Revamp the membership program to offer clear, tangible benefits that differentiate from non-member experiences. Consider partnerships with local businesses to expand member benefits beyond the supermarket.
 
-8. Food and Beverages category generates the least revenue from churned customers. Leverage the stability of this category by cross-selling and upselling to customers who primarily shop for groceries. Use data analytics to suggest complementary products from higher-churn categories.
+**8. Food and Beverages category generates the least revenue from churned customers.** Leverage the stability of this category by cross-selling and upselling to customers who primarily shop for groceries. Use data analytics to suggest complementary products from higher-churn categories.
 
-9. Customers with poor credit scores have higher churn rates. Develop financial wellness programs or partnerships with financial institutions to offer credit improvement resources. This can build loyalty while addressing a key churn factor.
+**9. Customers with poor credit scores have higher churn rates.** Develop financial wellness programs or partnerships with financial institutions to offer credit improvement resources. This can build loyalty while addressing a key churn factor.
 
-10. Churn rates and performance vary across branches (Dallas, Houston, San Antonio). Implement localized retention strategies based on each branch's specific churn patterns and customer demographics. Share best practices across branches while allowing for local customization.
+**10. Churn rates and performance vary across branches (Dallas, Houston, San Antonio).** Implement localized retention strategies based on each branch's specific churn patterns and customer demographics. Share best practices across branches while allowing for local customization.
 
 By implementing these data-driven recommendations, the supermarket chain can create a more personalized and engaging customer experience, potentially reducing churn rates and increasing overall customer lifetime value.
 

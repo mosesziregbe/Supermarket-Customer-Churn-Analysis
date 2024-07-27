@@ -1,4 +1,4 @@
- Supermarket Customer Churn Analysis
+# Supermarket Customer Churn Analysis
 
 ## Introduction
 

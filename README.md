@@ -44,7 +44,7 @@ The dashboard is interactive, allowing users to filter data by various dimension
 
 ## Key Findings
 
-### Overview Page - [View Page Screenshot](
+### Overview Page - [View Page Screenshot](https://github.com/mosesziregbe/Supermarket-Customer-Churn-Analysis/blob/main/supermarket_churn_overview.jpg)
 
 #### Churn Rate and Customer Retention
 - **Overall Churn Rate**: 20.37%, with 2,037 customers churned out of a total of 10,000.
@@ -72,7 +72,7 @@ The dashboard is interactive, allowing users to filter data by various dimension
 #### Branch Performance Insights
 - Notably, while Dallas has the highest total revenue, it also experiences a higher churn rate in certain categories.
 
-### Customer Churn Analysis Page
+### Customer Churn Analysis Page - [View Page Screenshot](https://github.com/mosesziregbe/Supermarket-Customer-Churn-Analysis/blob/main/supermarket_churn_customer_analysis.jpg)
 
 #### Customer Demographics:
 -**Total Customers:** 10K

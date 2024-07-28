@@ -39,11 +39,12 @@ The project includes a comprehensive Power BI dashboard with two main pages:
 
 The dashboard is interactive, allowing users to filter data by various dimensions such as branch, product category, and customer type.
 
-[Link to Power BI Dashboard]
+[Link to Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzg3YjRmMTMtNTk1NC00ZmMwLWE3MGMtZjBmZGVlZjVmNGE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7b5c417c287e1802cdb9)
+
 
 ## Key Findings
 
-### Overview Page
+### Overview Page - [View Page Screenshot](
 
 #### Churn Rate and Customer Retention
 - **Overall Churn Rate**: 20.37%, with 2,037 customers churned out of a total of 10,000.
